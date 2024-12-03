@@ -4,7 +4,7 @@
 
 [DevToolset](https://DevToolset.net/) 是一个开源的无数据库架构的开发者工具导航网站
 
-## Star 历史
+## Star 历史1
 
 [![Star 历史图表](https://api.star-history.com/svg?repos=iamcorey/devtoolset&type=Date)](https://star-history.com/#iamcorey/devtoolset&Date)
 
